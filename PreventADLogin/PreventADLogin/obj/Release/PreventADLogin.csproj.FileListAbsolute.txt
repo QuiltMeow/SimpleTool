@@ -1,0 +1,11 @@
+D:\User Data\repos\PreventADLogin\PreventADLogin\bin\Release\PreventADLogin.exe.config
+D:\User Data\repos\PreventADLogin\PreventADLogin\bin\Release\PreventADLogin.exe
+D:\User Data\repos\PreventADLogin\PreventADLogin\bin\Release\PreventADLogin.pdb
+D:\User Data\repos\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.csproj.AssemblyReference.cache
+D:\User Data\repos\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.csproj.SuggestedBindingRedirects.cache
+D:\User Data\repos\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.ProjectInstaller.resources
+D:\User Data\repos\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.UserService.resources
+D:\User Data\repos\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.csproj.GenerateResource.cache
+D:\User Data\repos\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.csproj.CoreCompileInputs.cache
+D:\User Data\repos\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.exe
+D:\User Data\repos\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.pdb

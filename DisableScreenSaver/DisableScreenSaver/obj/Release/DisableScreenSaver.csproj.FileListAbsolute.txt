@@ -1,0 +1,10 @@
+C:\Users\Quilt\source\repos\DisableScreenSaver\DisableScreenSaver\bin\Release\DisableScreenSaver.exe.config
+C:\Users\Quilt\source\repos\DisableScreenSaver\DisableScreenSaver\bin\Release\DisableScreenSaver.exe
+C:\Users\Quilt\source\repos\DisableScreenSaver\DisableScreenSaver\bin\Release\DisableScreenSaver.pdb
+C:\Users\Quilt\source\repos\DisableScreenSaver\DisableScreenSaver\obj\Release\DisableScreenSaver.csproj.AssemblyReference.cache
+C:\Users\Quilt\source\repos\DisableScreenSaver\DisableScreenSaver\obj\Release\DisableScreenSaver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Quilt\source\repos\DisableScreenSaver\DisableScreenSaver\obj\Release\DisableScreenSaver.Properties.Resources.resources
+C:\Users\Quilt\source\repos\DisableScreenSaver\DisableScreenSaver\obj\Release\DisableScreenSaver.csproj.GenerateResource.cache
+C:\Users\Quilt\source\repos\DisableScreenSaver\DisableScreenSaver\obj\Release\DisableScreenSaver.csproj.CoreCompileInputs.cache
+C:\Users\Quilt\source\repos\DisableScreenSaver\DisableScreenSaver\obj\Release\DisableScreenSaver.exe
+C:\Users\Quilt\source\repos\DisableScreenSaver\DisableScreenSaver\obj\Release\DisableScreenSaver.pdb
