@@ -9,3 +9,14 @@ D:\User Data\repos\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.cspr
 D:\User Data\repos\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.csproj.CoreCompileInputs.cache
 D:\User Data\repos\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.exe
 D:\User Data\repos\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.pdb
+F:\VSProject\Work Util\PreventADLogin\PreventADLogin\bin\Release\PreventADLogin.exe.config
+F:\VSProject\Work Util\PreventADLogin\PreventADLogin\bin\Release\PreventADLogin.exe
+F:\VSProject\Work Util\PreventADLogin\PreventADLogin\bin\Release\PreventADLogin.pdb
+F:\VSProject\Work Util\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.csproj.AssemblyReference.cache
+F:\VSProject\Work Util\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.csproj.SuggestedBindingRedirects.cache
+F:\VSProject\Work Util\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.ProjectInstaller.resources
+F:\VSProject\Work Util\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.UserService.resources
+F:\VSProject\Work Util\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.csproj.GenerateResource.cache
+F:\VSProject\Work Util\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.csproj.CoreCompileInputs.cache
+F:\VSProject\Work Util\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.exe
+F:\VSProject\Work Util\PreventADLogin\PreventADLogin\obj\Release\PreventADLogin.pdb

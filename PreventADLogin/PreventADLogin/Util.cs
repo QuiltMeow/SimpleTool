@@ -51,18 +51,28 @@ namespace PreventADLogin
             int length;
             string ret = "SYSTEM";
 
-            if (WTSQuerySessionInformation(IntPtr.Zero, sessionId, WTSInfoClass.WTSUserName, out buffer, out length) && length > 1)
+            if (WTSQuerySessionInformation(IntPtr.Zero, sessionId, WTSInfoClass.WTSUserName, out buffer, out length))
             {
-                ret = Marshal.PtrToStringAnsi(buffer);
-                WTSFreeMemory(buffer);
-
-                if (prependDomain)
+                if (length > 1)
                 {
-                    if (WTSQuerySessionInformation(IntPtr.Zero, sessionId, WTSInfoClass.WTSDomainName, out buffer, out length) && length > 1)
+                    ret = Marshal.PtrToStringAnsi(buffer);
+                    WTSFreeMemory(buffer);
+
+                    if (prependDomain)
                     {
-                        ret = $"{Marshal.PtrToStringAnsi(buffer)}\\{ret}";
-                        WTSFreeMemory(buffer);
+                        if (WTSQuerySessionInformation(IntPtr.Zero, sessionId, WTSInfoClass.WTSDomainName, out buffer, out length))
+                        {
+                            if (length > 1)
+                            {
+                                ret = $"{Marshal.PtrToStringAnsi(buffer)}\\{ret}";
+                            }
+                            WTSFreeMemory(buffer);
+                        }
                     }
+                }
+                else
+                {
+                    WTSFreeMemory(buffer);
                 }
             }
             return ret;
